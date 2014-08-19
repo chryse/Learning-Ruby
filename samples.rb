@@ -116,8 +116,14 @@ puts x[2]
 
 # Output : FishFishFish(different that python?)
 
-x = [ ]
 
+#define a function
+
+def square(x)
+    x * x
+end
+
+puts square(5)
 
 
 
