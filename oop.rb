@@ -15,7 +15,7 @@
  
  puts Square.new(10).area
  
- =end
+=end
 
 class Shape
 end
